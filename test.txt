@@ -2,3 +2,4 @@
 추가
 practice2
 누가 와서 바꿈
+fetch
